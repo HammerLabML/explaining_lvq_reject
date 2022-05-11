@@ -45,7 +45,7 @@ Note that we did not publish all data sets due to unclear copyrights. Please con
 
 ## License
 
-MIT license - See [LICENSE.md](LICENSE.md)
+MIT license - See [LICENSE](LICENSE)
 
 ## How to cite
 
